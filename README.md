@@ -1,7 +1,12 @@
-# Galeria de fotos
+# Fotoblog
 
-O intuito deste projeto foi o aprendizado de HTML e CSS avançados, reforçando o Grid e iniciando com animações e transições do CSS.
-## Aprendizado
+The purpose of this project was to learn advanced HTML and CSS, reinforcing the Grid and starting with CSS animations and transitions.
+
+
+![App Screenshot](./assets/fotoblog.mp4)
+
+
+## Apprenticeship
 
 - Variáveis CSS;
 - Estrutura em grid com Header e Footer fixos;
@@ -14,11 +19,13 @@ O intuito deste projeto foi o aprendizado de HTML e CSS avançados, reforçando 
 - HSL color;
 
 
-## 🔗 Contato
+
+
+## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-f%C3%BCllenbach-9b25a6148/)
 
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 HTML, CSS, Figma, Google fonts
 
