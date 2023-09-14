@@ -10,10 +10,10 @@ https://github.com/RafaFullenbach/fotoblog/assets/63618616/4185c818-317f-4cb1-b5
 
 ## Apprenticeship
 
-- Variáveis CSS;
-- Estrutura em grid com Header e Footer fixos;
+- CSS Variables;
+- Grid structure with fixed Header and Footer;
 - min();
-- Formulário de pesquisa com boas práticas de acessibilidade;
+- Survey form with accessibility best practices;
 - Transition;
 - Transform;
 - Filter;
