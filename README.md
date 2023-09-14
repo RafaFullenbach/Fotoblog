@@ -3,7 +3,9 @@
 The purpose of this project was to learn advanced HTML and CSS, reinforcing the Grid and starting with CSS animations and transitions.
 
 
-![App Screenshot](./assets/fotoblog.mp4)
+https://github.com/RafaFullenbach/fotoblog/assets/63618616/4185c818-317f-4cb1-b5ee-43b0d7cc367b
+
+
 
 
 ## Apprenticeship
